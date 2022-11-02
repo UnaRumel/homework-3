@@ -383,9 +383,8 @@ img {
   }
 
   .footer-item {
-    margin-bottom: 9px;
 }
 
 .footer-item:not(:last-child) {
-    margin-bottom: 0px;
+    margin-bottom: 9px;
 }
